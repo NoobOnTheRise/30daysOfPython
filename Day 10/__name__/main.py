@@ -1,0 +1,3 @@
+import minal
+
+minal.welcome()
